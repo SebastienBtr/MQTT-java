@@ -1,0 +1,1 @@
+This directory is used to store mqtt messages in a log file.

@@ -1,0 +1,11 @@
+#.gitignore
+
+**/.idea
+**/.DS_Store
+**/*.iml
+**/target
+**/.settings
+**/.project
+**/.classpath
+
+mqtt-subscriber/logs/log.txt
